@@ -12,7 +12,7 @@
   4. Insert the second currency. **( ISO FORMAT )** EX: * *USD, BRL, EUR, GBP*.
 ---------------------------------------
 #### API VERSION
-  1. You will need to access the website [CURRENCY CONVERTER API](https://free.currencyconverterapi.com/ "Free API").
+  1. You will need to access the website [CURRENCY CONVERTER API](https://free.currencyconverterapi.com/ "Free API") and get your free API key.
   2. Create an .env file at the root of the project and insert the variable ```API_KEY=YOUR KEY``` .
   3. Run the index.js file using the  <code>``node apiVersion.js``</code> command line.
   4. Enter base currency. **( ISO FORMAT )** EX: * *USD, BRL, EUR, GBP*.
